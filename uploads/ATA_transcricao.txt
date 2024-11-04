@@ -1,0 +1,1923 @@
+0:0:4.10 --> 0:0:5.110
+Ricardo Mendes Soares
+Estou só sendo passando.
+0:0:6.960 --> 0:0:8.530
+Ricardo Mendes Soares
+É o senhor Ricardo particular.
+0:0:8.540 --> 0:0:11.640
+Ricardo Mendes Soares
+Reunião não é tanta gente.
+0:0:11.650 --> 0:0:14.810
+Ricardo Mendes Soares
+A reunião às 10 e 10 para a equipe da da.
+0:0:14.820 --> 0:0:18.950
+Ricardo Mendes Soares
+Esta indo daqui, desta e da TREE.
+0:0:18.960 --> 0:0:41.970
+Ricardo Mendes Soares
+Aqui é de TI, da do laboratório de óleos uniforme é presentes na reunião, eu, Ricardo Soares, eu falo por essa lata pela condição da reunião e os demais participantes, que é Leo da secretária da criando, o secretário da sti, Alysson do laboratório de inovação tem é.
+0:0:44.860 --> 0:0:49.860
+Ricardo Mendes Soares
+Não, Edson, da stacie web, é Joao da.
+0:0:52.120 --> 0:1:0.410
+Ricardo Mendes Soares
+Dá para o SIS ir OA equipe do do de ter ido ali, ó, de uniforme.
+0:1:1.650 --> 0:1:8.40
+Ricardo Mendes Soares
+Benjamin está em viagem, depois graduação Henrique passando, passando por.
+0:1:9.950 --> 0:1:12.740
+Ricardo Mendes Soares
+Tem bem diferente da.
+0:1:17.660 --> 0:1:19.390
+Ricardo Mendes Soares
+Bem, Felipe, estagiário de graduação.
+0:1:25.350 --> 0:1:35.280
+Ricardo Mendes Soares
+Karina estagiários para ajudar a São João, Vitor estava já quando da ação de graduação é a pauta da reunião é geral.
+0:1:36.500 --> 0:1:37.630
+Ricardo Mendes Soares
+Complementações, né?
+0:1:37.640 --> 0:1:47.130
+Ricardo Mendes Soares
+Os projetos de TI da sala e a restante das pautas ali Bezerra ser definidos no final da da polícia, DOS da base de dados.
+0:1:50.480 --> 0:1:54.170
+Ricardo Mendes Soares
+Aí pronto sobre essa, né?
+0:1:58.720 --> 0:1:59.660
+Ricardo Mendes Soares
+Tem que continuar.
+0:2:2.10 --> 0:2:4.270
+Ricardo Mendes Soares
+Mas a gente queria possibilidade.
+0:2:16.730 --> 0:2:17.200
+Ricardo Mendes Soares
+Memória?
+0:2:18.910 --> 0:2:19.310
+Ricardo Mendes Soares
+Um.
+0:2:21.820 --> 0:2:24.890
+Ricardo Mendes Soares
+Pronto no WhatsApp exatamente o WhatsApp.
+0:2:24.900 --> 0:2:27.0
+Ricardo Mendes Soares
+Então, assim a gente vai manter o site.
+0:2:40.180 --> 0:2:42.940
+Ricardo Mendes Soares
+É atualizar os projetos.
+0:2:48.0 --> 0:2:48.550
+Ricardo Mendes Soares
+Trincado?
+0:2:53.160 --> 0:2:55.580
+Ricardo Mendes Soares
+E a gente queria, fala.
+0:2:58.100 --> 0:2:58.190
+Ricardo Mendes Soares
+O.
+0:2:59.240 --> 0:3:7.280
+Ricardo Mendes Soares
+Eles usaram pony, e não sei se usaram uma coisa, mas aquela carinha mais bonita aí estava um pouco e é bom coisa bonita.
+0:3:13.650 --> 0:3:13.930
+Ricardo Mendes Soares
+Foi só.
+0:3:16.280 --> 0:3:22.40
+Ricardo Mendes Soares
+Só que ele não sabe que a gente não pode fazer o na verdade aí.
+0:3:24.270 --> 0:3:29.800
+Ricardo Mendes Soares
+Se você ficar dentro do plano, sim, você pode ser rebelde neste ponto, tá?
+0:3:29.840 --> 0:3:37.410
+Ricardo Mendes Soares
+Que tem alguns trs que usam O Clone funcional básico, eles querem outro site fora do clone.
+0:3:37.420 --> 0:3:42.200
+Ricardo Mendes Soares
+Não houve, traz em qualquer outro lugar onde eles trabalham.
+0:3:42.210 --> 0:3:56.180
+Ricardo Mendes Soares
+Essas coisas estão na teoria, você podia ter um, saio do LIODS seria mantido pela equipe aqui que não fosse que homem poderia pode com o que a gente quiser, é essa que a gente tem. É?
+0:3:56.820 --> 0:3:59.720
+Ricardo Mendes Soares
+Lembra que a gente tem lá se evitou o vínculo?
+0:3:59.730 --> 0:4:5.890
+Ricardo Mendes Soares
+Servidor Linux, então temos que pensar não TRE-CE, servidores não poderia estar fora de sucesso, então?
+0:4:7.460 --> 0:4:9.320
+Ricardo Mendes Soares
+Né site?
+0:4:9.700 --> 0:4:10.250
+Ricardo Mendes Soares
+Sim.
+0:4:13.40 --> 0:4:13.950
+Ricardo Mendes Soares
+A porta do coisa.
+0:4:16.70 --> 0:4:20.900
+Ricardo Mendes Soares
+E aí eu já colocando algumas coisas pra você deixar na memória, tá?
+0:4:22.20 --> 0:4:23.610
+Ricardo Mendes Soares
+É no controle, como vas?
+0:4:23.620 --> 0:4:31.190
+Ricardo Mendes Soares
+A gente está desenvolvendo as documentações de contratação, que é o Dória TTS, que tem os Campos.
+0:4:33.10 --> 0:4:43.960
+Ricardo Mendes Soares
+Só que a ideia é que, a partir do campo básico, ele gere um pronto para PESSOA aí No No chat efetuei o vivi pra ver como é que ele vai gerar respostas, colar lá.
+0:4:44.140 --> 0:4:47.30
+Ricardo Mendes Soares
+Sigo certo da criança, o Deus.
+0:4:48.650 --> 0:4:52.690
+Ricardo Mendes Soares
+Encontrar com eles é um projeto que a SASKYA está tocando.
+0:4:52.740 --> 0:4:57.390
+Ricardo Mendes Soares
+Que a gente visitou a Seplag, mas a ideia inicial, ela, bem ciente.
+0:4:57.400 --> 0:5:5.680
+Ricardo Mendes Soares
+Até lá, OA sugestão de prontos repetições justa e morando, talvez mais para frente, você precisa de botar os meninos pra fazer a integração.
+0:5:5.690 --> 0:5:18.510
+Ricardo Mendes Soares
+Mesmo agora que a gente consegue contratar ou repetir pra você, já temos DE já te consegue aqui já tem o contrato da nuvem que precisa fazer um aditivo para consumir?
+0:5:18.630 --> 0:5:20.770
+Ricardo Mendes Soares
+Sim, mas é, mas vai fazer.
+0:5:20.780 --> 0:5:21.470
+Ricardo Mendes Soares
+É, vai.
+0:5:21.480 --> 0:5:31.390
+Ricardo Mendes Soares
+O que a gente tem a gente já tem 11 dessa DE talvez a gente vai precisar é e aí sim, aí a gente poderia consumir a lei do gpt.
+0:5:31.400 --> 0:5:34.670
+Ricardo Mendes Soares
+Eles trabalharão na integração DE geral.
+0:5:34.680 --> 0:5:39.440
+Ricardo Mendes Soares
+Pronto, te mandar para o chefe PT pegar a resposta para locar, compre mercado de texto.
+0:5:39.450 --> 0:5:40.470
+Ricardo Mendes Soares
+Seu nome dado, né?
+0:5:40.600 --> 0:5:41.900
+Ricardo Mendes Soares
+É, mas aí teria que ser bem só dentro.
+0:5:41.910 --> 0:5:46.190
+Ricardo Mendes Soares
+Com um projeto específico, é o que eu não sei pra que não ficam para acional não.
+0:5:46.230 --> 0:5:58.660
+Ricardo Mendes Soares
+A ideia é, é o projeto aí quem consome era os meninos e a outra coisa que eu tinha levado pra pra presidência e não rodou porque eu não consegui trazer as pessoas na época.
+0:6:0.10 --> 0:6:4.880
+Ricardo Mendes Soares
+Presidente, queria fazer uma visita viola ao museu lá de memória.
+0:6:6.520 --> 0:6:10.460
+Ricardo Mendes Soares
+E a gente IA desse negócio, não tinha, mas já tem um pé.
+0:6:12.540 --> 0:6:13.630
+Ricardo Mendes Soares
+Aí, o que que acontece?
+0:6:13.640 --> 0:6:18.60
+Ricardo Mendes Soares
+Mas a gente fez um projeto parecido lá no fórum.
+0:6:18.630 --> 0:6:23.440
+Ricardo Mendes Soares
+Se você entrar no centro de memória hoje, tem o Painel de presidentes.
+0:6:23.450 --> 0:6:26.500
+Ricardo Mendes Soares
+Você tinha parceiros que eu quero é feito em outros, né?
+0:6:27.880 --> 0:6:30.230
+Ricardo Mendes Soares
+Então bobear aqui.
+0:6:30.270 --> 0:6:31.380
+Ricardo Mendes Soares
+Não, não volto a dizer.
+0:6:31.390 --> 0:6:34.920
+Ricardo Mendes Soares
+Esperou no ambiente virtual que eles usem posto de óleo.
+0:6:35.790 --> 0:6:36.820
+Ricardo Mendes Soares
+Talvez fosse interessante.
+0:6:40.80 --> 0:6:59.470
+Ricardo Mendes Soares
+O nosso sala de museu é uma sala ver se a gente conseguia fazer 2 demandas que eu teria com vocês é na teoria também que que poderia explorar também tu ao e a integração do portal de compras com chat PT nossa é.
+0:6:59.950 --> 0:7:0.870
+Ricardo Mendes Soares
+Beleza, estou falando.
+0:7:5.740 --> 0:7:6.250
+Ricardo Mendes Soares
+O site.
+0:7:7.850 --> 0:7:10.610
+Ricardo Mendes Soares
+Dura e ética, a gente confia.
+0:7:12.560 --> 0:7:14.210
+Ricardo Mendes Soares
+Ó, sou, enfim.
+0:7:16.10 --> 0:7:16.280
+Ricardo Mendes Soares
+Veja.
+0:7:19.910 --> 0:7:20.400
+Ricardo Mendes Soares
+Portal de.
+0:7:22.210 --> 0:7:22.490
+Ricardo Mendes Soares
+Ótimo.
+0:7:22.500 --> 0:7:26.910
+Ricardo Mendes Soares
+20, leve, tem que te leve, tem um Lexus também pra gente.
+0:7:26.920 --> 0:7:28.420
+Ricardo Mendes Soares
+Sobre o assunto, para mim ver.
+0:7:33.990 --> 0:7:35.710
+Ricardo Mendes Soares
+Não, aí é o que a gente tem que conversar.
+0:7:35.720 --> 0:7:37.510
+Ricardo Mendes Soares
+No segundo momento, eles vão usar ali.
+0:7:40.780 --> 0:7:42.390
+Ricardo Mendes Soares
+Teria que colocar o beach.
+0:7:43.200 --> 0:7:50.580
+Ricardo Mendes Soares
+Meu olho não é esse, não é esse mês vai mostrar, a gente vai, vai tudo, vai passar pelo pela.
+0:7:54.50 --> 0:7:54.500
+Ricardo Mendes Soares
+De de Atendimento?
+0:7:56.670 --> 0:7:56.880
+Ricardo Mendes Soares
+Não.
+0:7:56.890 --> 0:8:1.480
+Ricardo Mendes Soares
+A galera que precisaria estar dentro do tribunal na internet, não.
+0:8:1.490 --> 0:8:10.640
+Ricardo Mendes Soares
+Ele se loga nessa máquina pessoal e ficou só no serviço, como se lá estivesse sem dar super tentar para invasor.
+0:8:10.650 --> 0:8:15.360
+Ricardo Mendes Soares
+Então, é como se ele estivesse lá dentro, mas eles estão tendo a selecionar, averiguar.
+0:8:15.370 --> 0:8:18.240
+Ricardo Mendes Soares
+Na infraestrutura, ele gostaria só serviços pontuais.
+0:8:20.680 --> 0:8:22.480
+Ricardo Mendes Soares
+Não, não por nada, não.
+0:8:23.480 --> 0:8:24.60
+Ricardo Mendes Soares
+E aí é.
+0:8:24.70 --> 0:8:28.890
+Ricardo Mendes Soares
+É que elas continuem, que o acesso que eles vão precisar seja feito dia UA.
+0:8:29.260 --> 0:8:30.790
+Ricardo Mendes Soares
+Eles estão usando cortá-la.
+0:8:33.460 --> 0:8:36.880
+Ricardo Mendes Soares
+Q, UE é o que é?
+0:8:38.560 --> 0:8:44.850
+Ricardo Mendes Soares
+Ele tem acesso ao tem acesso, no meu entender, a viagem está usando a máquina dele.
+0:8:46.560 --> 0:8:47.910
+Ricardo Mendes Soares
+Por enquanto, não.
+0:8:48.20 --> 0:9:0.490
+Ricardo Mendes Soares
+Aí, deixa o que vai caminhar, é pequena determinação de segurança que a decline vai ser aposentada, por isso que eu tô falando DE por que servir ao ao aqui é por causa, sabe?
+0:9:1.620 --> 0:9:12.970
+Ricardo Mendes Soares
+Mas essas quiserem tocar os Caio tem estrutura para subir, subirem a publicação ou ficou 20 publica lá e aí dá pra fazer os testes, né?
+0:9:13.440 --> 0:9:14.710
+Ricardo Mendes Soares
+Por exemplo, é?
+0:9:15.330 --> 0:9:16.950
+Ricardo Mendes Soares
+Eu imagino que, a princípio.
+0:9:19.160 --> 0:9:20.950
+Ricardo Mendes Soares
+A princípio, eles precisariam.
+0:9:20.960 --> 0:9:37.750
+Ricardo Mendes Soares
+Por que te lugar só pra subir as coisas e doutor, acesso ao à internet ou a intranet dependente como uma ficar esse o site legal já fica fica por público externo, então, basicamente o ritmo.
+0:9:41.640 --> 0:9:43.110
+Ricardo Mendes Soares
+Muito a questão da publicação.
+0:9:43.140 --> 0:9:44.60
+Ricardo Mendes Soares
+Sei se a gente pode.
+0:9:44.80 --> 0:9:48.290
+Ricardo Mendes Soares
+Vocês trabalham uma coisa publicação por conta então cinza.
+0:9:48.340 --> 0:9:51.330
+Ricardo Mendes Soares
+A gente tem o Spike Lives, então a ideia que sobrou.
+0:9:51.340 --> 0:9:54.690
+Ricardo Mendes Soares
+Fonte flex, volta lá outros.
+0:9:57.430 --> 0:10:0.480
+Ricardo Mendes Soares
+E aí não questão esse mudança.
+0:10:1.150 --> 0:10:7.520
+Ricardo Mendes Soares
+Marido África, ela está acontecendo pelo que eu estou por moeda e logo o vídeo.
+0:10:9.850 --> 0:10:12.890
+Ricardo Mendes Soares
+A gente pega inicialmente ônibus.
+0:10:12.900 --> 0:10:15.730
+Ricardo Mendes Soares
+Minutos após responsável, posso lhe servir?
+0:10:15.740 --> 0:10:19.130
+Ricardo Mendes Soares
+Avisa a gente terminar certo?
+0:10:19.140 --> 0:10:24.40
+Ricardo Mendes Soares
+A gente quer fica para os outros, porque eu acho que isso é pra gente, sabe?
+0:10:26.170 --> 0:10:27.950
+Ricardo Mendes Soares
+A gente também não andou muito, não é?
+0:10:27.960 --> 0:10:30.520
+Ricardo Mendes Soares
+Esses dias iniciais estavam estudando justamente fechado.
+0:10:30.530 --> 0:10:33.790
+Ricardo Mendes Soares
+Não adianta a gente ter essa conversa, essa conversa.
+0:10:33.800 --> 0:10:34.610
+Ricardo Mendes Soares
+Perder, né?
+0:10:34.910 --> 0:10:37.180
+Ricardo Mendes Soares
+Então porque assim se a gente for fazer esse site?
+0:10:38.850 --> 0:10:45.390
+Ricardo Mendes Soares
+Todo filho, olha, parece para avaliar, para produzir debaixo do seu processo enquanto.
+0:10:47.220 --> 0:10:48.220
+Ricardo Mendes Soares
+A gente vai definir.
+0:10:51.890 --> 0:10:53.260
+Ricardo Mendes Soares
+Então eu vou estar pessoal para hoje.
+0:10:54.0 --> 0:10:55.110
+Ricardo Mendes Soares
+E começar a fazer produto?
+0:10:56.940 --> 0:10:58.530
+Ricardo Mendes Soares
+Pronto, quero te ver agora.
+0:11:2.440 --> 0:11:3.220
+Ricardo Mendes Soares
+Não usar hora.
+0:11:5.650 --> 0:11:7.770
+Ricardo Mendes Soares
+A ideia é matar o óbvio TSE.
+0:11:8.890 --> 0:11:12.510
+Ricardo Mendes Soares
+Migração que vai se Jessica flocka.
+0:11:16.120 --> 0:11:20.30
+Ricardo Mendes Soares
+A gente teria um front crescer e tchau.
+0:11:21.940 --> 0:11:25.70
+Ricardo Mendes Soares
+Composto, banco, gosto Beth.
+0:11:27.760 --> 0:11:30.450
+Ricardo Mendes Soares
+Compatível pode ser pato também.
+0:11:30.460 --> 0:11:31.840
+Ricardo Mendes Soares
+Aí você pensa, porque eles vão?
+0:11:33.390 --> 0:11:42.190
+Ricardo Mendes Soares
+Beleza é inicialmente, digamos, aí tem essa do você faz tempo que eu não faço botar um.
+0:11:47.360 --> 0:11:49.250
+Ricardo Mendes Soares
+A gente conseguiria inicialmente.
+0:11:51.550 --> 0:11:52.280
+Ricardo Mendes Soares
+Vamos colocar.
+0:12:7.930 --> 0:12:8.890
+Ricardo Mendes Soares
+Porque aqui depois.
+0:12:10.740 --> 0:12:16.710
+Ricardo Mendes Soares
+Caso haja necessidade e alguma coisa a mais, então na hora da implantação, novamente não é.
+0:12:17.460 --> 0:12:19.570
+Ricardo Mendes Soares
+Mas é atualmente a car.
+0:12:23.590 --> 0:12:26.420
+Ricardo Mendes Soares
+Para colocar fazer o depósito do lá, é como eles.
+0:12:29.840 --> 0:12:33.330
+Ricardo Mendes Soares
+Eu na hora que ele esconde feliz do contêiner, é o que a gente faz aqui.
+0:12:34.990 --> 0:12:36.620
+Ricardo Mendes Soares
+Só deu erro.
+0:12:36.630 --> 0:12:38.790
+Ricardo Mendes Soares
+A gente volta a conversão anterior, disse.
+0:12:38.800 --> 0:12:39.840
+Ricardo Mendes Soares
+Vai consertar, né?
+0:12:40.620 --> 0:12:46.290
+Ricardo Mendes Soares
+Mas o ideal era que, já que a gente vai fazer a coisa do mundo acadêmico é quente, elegesse um que é.
+0:12:48.420 --> 0:12:52.320
+Ricardo Mendes Soares
+Tinha que ter alguém para fazer teste a gente colocar No No fluxo.
+0:12:53.260 --> 0:12:54.320
+Ricardo Mendes Soares
+Bom, você faça.
+0:12:58.820 --> 0:13:0.970
+Ricardo Mendes Soares
+A questão de de de problemas.
+0:13:2.600 --> 0:13:4.390
+Ricardo Mendes Soares
+Beleza, meninos.
+0:13:4.400 --> 0:13:6.20
+Ricardo Mendes Soares
+Benjamin tem mais alguma?
+0:13:7.120 --> 0:13:7.550
+Ricardo Mendes Soares
+Eu estudo.
+0:13:10.100 --> 0:13:10.660
+Ricardo Mendes Soares
+No?
+0:13:16.760 --> 0:13:17.870
+Ricardo Mendes Soares
+A gente faça o.
+0:13:21.670 --> 0:13:23.10
+Ricardo Mendes Soares
+Vai ter lá em DE está montado.
+0:13:23.20 --> 0:13:31.100
+Ricardo Mendes Soares
+Lá vem vocês e tem outro estagiário, mesmo que eu acho que algum momento eu vou trazer aqui para cá, até porque ele acaba, tá?
+0:13:31.110 --> 0:13:34.130
+Ricardo Mendes Soares
+Entendi 2 coisas que é o Pedro, né?
+0:13:34.140 --> 0:13:35.990
+Ricardo Mendes Soares
+O Pedro, ele é aluno de pós.
+0:13:36.0 --> 0:13:39.120
+Ricardo Mendes Soares
+Aqui está também falar com meu púbis.
+0:13:39.130 --> 0:13:46.900
+Ricardo Mendes Soares
+Primeiros estranha Agricole selecionado, então ele cuida, hoje ele está me dando um apoio para cuidado.
+0:13:46.940 --> 0:13:52.140
+Ricardo Mendes Soares
+Do janus, que está rodando dentro desse pai de Wagner alto, né?
+0:13:52.310 --> 0:13:54.590
+Ricardo Mendes Soares
+E até que eu IA.
+0:13:57.450 --> 0:14:4.460
+Ricardo Mendes Soares
+E aí, outra coisa interessante para vocês é que lá a gente está num processo de plantação do openshift enquanto solução, né?
+0:14:4.470 --> 0:14:9.930
+Ricardo Mendes Soares
+Que é a solução da rede Red para conter DE porque extração de também vive muito mais coisas.
+0:14:11.230 --> 0:14:17.340
+Ricardo Mendes Soares
+Então, em algum momento, vocês também devem brincar com alguma coisa disso daí, na hora que a gente for fazer as migrações.
+0:14:18.830 --> 0:14:22.830
+Ricardo Mendes Soares
+Jogar as máquinas virtuais para para os contêineres, tudo.
+0:14:27.460 --> 0:14:28.420
+Ricardo Mendes Soares
+Eco bernex, né?
+0:14:31.410 --> 0:14:32.730
+Ricardo Mendes Soares
+Beleza é.
+0:14:33.250 --> 0:14:38.100
+Ricardo Mendes Soares
+A gente precisa fazer a beleza, porque eu estava.
+0:14:43.490 --> 0:14:55.380
+Ricardo Mendes Soares
+A integração da DA responde com o portal de compras para auxiliar o preenchimento dos Campos de documentos de cuja função é e pode passar o modelo.
+0:14:56.820 --> 0:15:2.360
+Ricardo Mendes Soares
+A gente tem os modelos dos documentos que a gente teria que gerar e é que também não é.
+0:15:3.160 --> 0:15:5.290
+Ricardo Mendes Soares
+E aí fazer a interligação.
+0:15:5.300 --> 0:15:11.20
+Ricardo Mendes Soares
+Cor e PT ou sugerir um próprio para PESSOA, copiar colar lá e depois fazer a volta às coisas?
+0:15:11.30 --> 0:15:14.340
+Ricardo Mendes Soares
+Sonho e, num segundo momento, integral.
+0:15:14.360 --> 0:15:16.720
+Ricardo Mendes Soares
+Isso feito, gerar esses documentos.
+0:15:16.730 --> 0:15:20.250
+Ricardo Mendes Soares
+Processo administrativo consumindo Excel.
+0:15:22.580 --> 0:15:24.880
+Ricardo Mendes Soares
+Essa sequência, não essa aplicação.
+0:15:30.150 --> 0:15:30.880
+Ricardo Mendes Soares
+Precisar, não?
+0:15:37.650 --> 0:15:40.20
+Ricardo Mendes Soares
+Mas quem passou não na trabalhando?
+0:15:40.30 --> 0:15:43.420
+Ricardo Mendes Soares
+A ideia do quer, se quer ver, se engenharia pronto.
+0:15:45.440 --> 0:15:46.700
+Ricardo Mendes Soares
+E a Sérgio pronto.
+0:15:46.790 --> 0:15:49.210
+Ricardo Mendes Soares
+E aí, uma vertente é voltar DE ponto?
+0:15:49.220 --> 0:15:49.820
+Ricardo Mendes Soares
+Maia, você quer?
+0:15:52.160 --> 0:15:59.860
+Ricardo Mendes Soares
+Porque a base desculpa mais básico que eu vou precisar para ele, esse tecnicamente, a decisão que ajude vai fazer piada.
+0:16:11.580 --> 0:16:11.970
+Ricardo Mendes Soares
+Tchau.
+0:16:25.820 --> 0:16:26.480
+Ricardo Mendes Soares
+Cara, é outra.
+0:16:26.490 --> 0:16:30.440
+Ricardo Mendes Soares
+A gente vai fazer uma, é meter o DE documentos.
+0:16:34.610 --> 0:16:35.230
+Ricardo Mendes Soares
+Para você.
+0:16:36.220 --> 0:16:41.780
+Ricardo Mendes Soares
+E aí a gente tem aí, doutor dia ter feito é que são os documentos que a gente vai gerar.
+0:16:41.790 --> 0:16:46.0
+Ricardo Mendes Soares
+A Terra tem por ano ou tem de 2030 40?
+0:16:46.10 --> 0:16:53.160
+Ricardo Mendes Soares
+Só, mas aí eu acalmei, portante, sabe isso, mas que tem suporte dentro da torre?
+0:16:53.170 --> 0:16:55.540
+Ricardo Mendes Soares
+Sim, consegui rodar aqui.
+0:16:55.920 --> 0:16:56.580
+Ricardo Mendes Soares
+Não precisava.
+0:16:56.590 --> 0:17:0.990
+Ricardo Mendes Soares
+Soares, a ideia é ajudar desenvolvimento da ferramenta, né?
+0:17:1.0 --> 0:17:4.440
+Ricardo Mendes Soares
+O uso suporte a curadoria, eles participam.
+0:17:4.450 --> 0:17:11.550
+Ricardo Mendes Soares
+Nós é, mas é uma responsabilidade nossa, então isso até porque a gente fez isso aqui com PESSOA Franca.
+0:17:11.560 --> 0:17:12.410
+Ricardo Mendes Soares
+São clássico com.
+0:17:12.420 --> 0:17:14.860
+Ricardo Mendes Soares
+Aí vai fazer o que a gente vai fazer com o corpo?
+0:17:16.510 --> 0:17:21.130
+Ricardo Mendes Soares
+Ela desenvolve como projeto no LIODS e depois com assumiu a gravação do.
+0:17:28.830 --> 0:17:35.760
+Ricardo Mendes Soares
+Nessa fase, agora grupo está xuxinha e uma vez aqui, rodox.
+0:17:40.410 --> 0:17:41.550
+Ricardo Mendes Soares
+É a parte boa.
+0:17:41.560 --> 0:17:44.650
+Ricardo Mendes Soares
+É que AA ideia é a gente ser bem aqui. 9 tá?
+0:17:44.660 --> 0:17:48.80
+Ricardo Mendes Soares
+Eu tô falando, começar com chave de ouro.
+0:17:50.70 --> 0:17:50.920
+Ricardo Mendes Soares
+Tá tudo certo, não.
+0:18:2.510 --> 0:18:4.270
+Ricardo Mendes Soares
+Mas a gente conseguiu fechar.
+0:18:4.280 --> 0:18:5.40
+Ricardo Mendes Soares
+O Geninho.
+0:18:5.50 --> 0:18:11.140
+Ricardo Mendes Soares
+Não fale lotear os outros, porque no final das contas, a gente pode descobrir que o gpt vai ser massa.
+0:18:12.220 --> 0:18:16.220
+Ricardo Mendes Soares
+É, eu já me e você levar o paciente fica saúde, irmã Olsen.
+0:18:16.690 --> 0:18:20.890
+Ricardo Mendes Soares
+Igual assim, agora sim, é o cara lá pro.
+0:18:22.110 --> 0:18:24.850
+Ricardo Mendes Soares
+Ele está preso no Google Pay LUTHIANO.
+0:18:37.630 --> 0:18:38.130
+Ricardo Mendes Soares
+No geral.
+0:18:44.690 --> 0:18:45.40
+Ricardo Mendes Soares
+Porque eu.
+0:18:48.430 --> 0:18:50.130
+Ricardo Mendes Soares
+Sozinho, e.
+0:18:50.710 --> 0:18:51.80
+Ricardo Mendes Soares
+Fria?
+0:18:51.90 --> 0:18:51.280
+Ricardo Mendes Soares
+Mais?
+0:18:54.340 --> 0:18:55.840
+Ricardo Mendes Soares
+Comparando, apaga, né? É.
+0:18:58.230 --> 0:19:4.810
+Ricardo Mendes Soares
+Mas ainda é essa explorar as possíveis, até porque ele vai ser uma coisa que a gente vai ter que usar em.
+0:19:13.690 --> 0:19:14.210
+Ricardo Mendes Soares
+DF.
+0:19:16.190 --> 0:19:16.580
+Ricardo Mendes Soares
+Modelo.
+0:19:18.170 --> 0:19:21.780
+Ricardo Mendes Soares
+Agora está lá, ação para.
+0:19:24.430 --> 0:19:24.790
+Ricardo Mendes Soares
+Você.
+0:19:29.300 --> 0:19:30.750
+Ricardo Mendes Soares
+Seria um jeito pouco.
+0:19:32.620 --> 0:19:35.420
+Ricardo Mendes Soares
+Entre 2 você.
+0:19:38.620 --> 0:19:38.920
+Ricardo Mendes Soares
+Tchau.
+0:19:52.110 --> 0:19:52.560
+Ricardo Mendes Soares
+O que a gente tem?
+0:19:54.360 --> 0:19:57.940
+Ricardo Mendes Soares
+Isso aqui desigual, mas vai ter que ficar mantendo o que falta.
+0:19:58.480 --> 0:19:59.910
+Ricardo Mendes Soares
+Às vezes você teve, por exemplo, um.
+0:19:59.920 --> 0:20:2.230
+Ricardo Mendes Soares
+Você quer tentar ficar falando das coisas utilizando até.
+0:20:5.180 --> 0:20:10.720
+Ricardo Mendes Soares
+Telefones para brincar, mas a preocupação é que a gente fica utilizando, achavam testar, testar, testar o outro.
+0:20:10.820 --> 0:20:13.460
+Ricardo Mendes Soares
+Eu, você, eu te cria, Evolution.
+0:20:20.660 --> 0:20:20.940
+Ricardo Mendes Soares
+Aí?
+0:20:22.850 --> 0:20:25.140
+Ricardo Mendes Soares
+Para este projeto específico, digamos que.
+0:20:27.150 --> 0:20:38.210
+Ricardo Mendes Soares
+Não, PESSOA para estudar é abaixo de pronto, inteligência artificial para colocar quaisquer que quer que eu já poderia, por exemplo.
+0:20:40.800 --> 0:20:41.270
+Ricardo Mendes Soares
+Oh.
+0:20:45.10 --> 0:20:45.220
+Ricardo Mendes Soares
+Não é?
+0:20:45.230 --> 0:20:58.770
+Ricardo Mendes Soares
+Aí eu eu conversaria com os meninos da ideia depois que eu, que eu preciso fazer entender meu curso, então para fazer ação, tudo parte lá do plano, só aí pra você fazer.
+0:20:58.780 --> 0:21:10.310
+Ricardo Mendes Soares
+AAO documento de licitação, felicitar um objeto quando e aí você tem a contextualização, não gera demanda inicial, é mais estudos técnico aí posto.
+0:21:12.100 --> 0:21:16.640
+Ricardo Mendes Soares
+Sua é, mas eu estou aqui nessa parte, eu sou a gente não pode fazer no geral essa parte.
+0:21:18.550 --> 0:21:22.730
+Ricardo Mendes Soares
+Que pensava em dar soluções com o banco EE os próprios.
+0:21:22.740 --> 0:21:23.760
+Ricardo Mendes Soares
+Não sei se alimentado, né?
+0:21:23.800 --> 0:21:25.150
+Ricardo Mendes Soares
+Sim, é porcão, tá?
+0:21:26.140 --> 0:21:34.170
+Ricardo Mendes Soares
+E a primeira ideia a gente pegar a sars e quer trazer grandes pessoal da Cedae do estado, aqui já usa, é o meu.
+0:21:34.180 --> 0:21:38.70
+Ricardo Mendes Soares
+Eu tenho DOS desceu, e aí?
+0:21:41.430 --> 0:21:43.980
+Ricardo Mendes Soares
+O melhor fazer alguns ajustes, né?
+0:21:44.530 --> 0:21:47.120
+Ricardo Mendes Soares
+Que aí está, São Paulo.
+0:21:49.640 --> 0:21:49.870
+Ricardo Mendes Soares
+Já?
+0:21:51.730 --> 0:21:52.350
+Ricardo Mendes Soares
+Melhor do que eu?
+0:21:56.520 --> 0:21:57.160
+Ricardo Mendes Soares
+Tem que já estar.
+0:22:0.90 --> 0:22:3.80
+Ricardo Mendes Soares
+Esse daí depois faz os ajustes, precisa todo.
+0:22:5.50 --> 0:22:6.170
+Ricardo Mendes Soares
+Documento, chá de coisas.
+0:22:8.930 --> 0:22:9.790
+Ricardo Mendes Soares
+É o principal?
+0:22:11.610 --> 0:22:15.550
+Ricardo Mendes Soares
+No próprio portal da transparência já dá os modelos desses.
+0:22:16.150 --> 0:22:20.670
+Ricardo Mendes Soares
+Validade da ação a ideia de se ela é fazer a da licitação tá?
+0:22:20.680 --> 0:22:28.840
+Ricardo Mendes Soares
+Então como é que a gente vê essa questão da porque assim, eu eu tenho um projeto com 2, o projeto só já tem um papel geral, é desenvolvimento de engenharia de prontos.
+0:22:29.170 --> 0:22:37.420
+Ricardo Mendes Soares
+E aí, continuação de dentro de um sistema que estão usando aqui, vai para a questão do certo, você bota no geral, e daí?
+0:22:37.430 --> 0:22:40.710
+Ricardo Mendes Soares
+Eu tenho, abaixo da das contas.
+0:22:51.200 --> 0:22:51.370
+Ricardo Mendes Soares
+Né?
+0:22:51.370 --> 0:22:52.90
+Ricardo Mendes Soares
+Pois é, mas.
+0:22:54.690 --> 0:22:56.530
+Ricardo Mendes Soares
+Caso o caso dos 6 meses, né?
+0:22:57.40 --> 0:23:0.240
+Ricardo Mendes Soares
+É, e doutor Tiago colocou esse passivo.
+0:23:2.190 --> 0:23:4.640
+Ricardo Mendes Soares
+Pode de forma bem direta.
+0:23:15.40 --> 0:23:15.970
+Ricardo Mendes Soares
+Que a?
+0:23:20.820 --> 0:23:23.370
+Ricardo Mendes Soares
+PESSOA para 56 meses, entendeu?
+0:23:23.410 --> 0:23:24.440
+Ricardo Mendes Soares
+Sim, me parece.
+0:23:24.450 --> 0:23:26.430
+Ricardo Mendes Soares
+Não, talvez não dependa evolução que ele chega.
+0:23:28.410 --> 0:23:36.770
+Ricardo Mendes Soares
+A ideia o dom de que é o documento de oficialização de demanda, ele não vai ter muito, muito inteligente. Pode?
+0:23:36.780 --> 0:23:38.170
+Ricardo Mendes Soares
+Eu preciso comprar, sabe?
+0:23:38.180 --> 0:23:38.590
+Ricardo Mendes Soares
+Certo?
+0:23:38.840 --> 0:23:44.180
+Ricardo Mendes Soares
+O mais simples é uma página, aí a gente faz dó de lá pra gravar.
+0:23:45.930 --> 0:23:47.200
+Ricardo Mendes Soares
+Troca, sabe?
+0:23:47.550 --> 0:23:52.300
+Ricardo Mendes Soares
+O ftp aí é só tem um campo de justificativa.
+0:23:52.310 --> 0:23:56.820
+Ricardo Mendes Soares
+Eu tenho que fazer isso, só que eu posso trabalhar com entregas.
+0:23:56.830 --> 0:23:59.690
+Ricardo Mendes Soares
+A primeira entrega, o cara entrega ou fazendo o fluxo de.
+0:24:1.410 --> 0:24:2.580
+Ricardo Mendes Soares
+Festa do que deixar atual.
+0:24:2.590 --> 0:24:8.650
+Ricardo Mendes Soares
+Hoje a gente delimitar, eu tenho que criar o layout, fazer persistir os dados.
+0:24:8.760 --> 0:24:14.40
+Ricardo Mendes Soares
+Segundo, excluindo a PINTO, tal capítulo documento tá no segundo.
+0:24:16.850 --> 0:24:17.100
+Ricardo Mendes Soares
+Só.
+0:24:18.960 --> 0:24:28.900
+Ricardo Mendes Soares
+Beijo, e aí, uma vez que a gente fez Freud e nos TV FGC, repito, você não precisa consumir, manter a mesma pessoa.
+0:24:29.930 --> 0:24:33.940
+Ricardo Mendes Soares
+E aí eu consigo usar o os meus 2 que estão lá, né? Não é?
+0:24:33.950 --> 0:24:35.740
+Ricardo Mendes Soares
+EE também essa parte dos produtos.
+0:24:35.750 --> 0:24:37.150
+Ricardo Mendes Soares
+E para outros locais também.
+0:24:37.160 --> 0:24:39.380
+Ricardo Mendes Soares
+Maduro, então, na verdade, eles vão partir do zero.
+0:24:39.390 --> 0:24:46.30
+Ricardo Mendes Soares
+Eles vão entender os que quer vir, porque assim que tirar um tempo para saber porque tem muita, tem nessa traz.
+0:24:48.840 --> 0:24:51.520
+Ricardo Mendes Soares
+Total, já sabes o nome?
+0:24:54.390 --> 0:24:56.760
+Ricardo Mendes Soares
+Se a eu acho que não esteve, só que não quero.
+0:25:8.410 --> 0:25:10.610
+Ricardo Mendes Soares
+A gente tem esse bem, eu só.
+0:25:13.60 --> 0:25:15.330
+Ricardo Mendes Soares
+O tribunal, comigo.
+0:25:18.880 --> 0:25:22.720
+Ricardo Mendes Soares
+Por isso está aqui definido sobre mim volta.
+0:25:25.450 --> 0:25:26.200
+Ricardo Mendes Soares
+Porque se a gente.
+0:25:29.290 --> 0:25:30.420
+Ricardo Mendes Soares
+E a gente falou, ok, a.
+0:25:32.930 --> 0:25:33.310
+Ricardo Mendes Soares
+Até.
+0:25:36.260 --> 0:25:41.910
+Ricardo Mendes Soares
+Um mês, um mês e meio para aprender, desenvolver tem uma parte de ver isso aqui, beleza?
+0:25:42.140 --> 0:25:45.950
+Ricardo Mendes Soares
+É, já é tempo que a gente não vai ter necessidade disso, tranquilo.
+0:25:55.90 --> 0:25:55.950
+Ricardo Mendes Soares
+Não sei se a.
+0:25:58.300 --> 0:25:59.810
+Ricardo Mendes Soares
+Eu é.
+0:26:0.700 --> 0:26:2.730
+Ricardo Mendes Soares
+Seria mais fora, e.
+0:26:4.10 --> 0:26:5.950
+Ricardo Mendes Soares
+Por exemplo, a gente está definido no modelo, a gente vai.
+0:26:7.770 --> 0:26:13.990
+Ricardo Mendes Soares
+Em setembro, o negócio que falou no YouTube, quando tudo pra gente vai até a publicação, no saco como simplificados, vamos ter integração?
+0:26:23.480 --> 0:26:23.670
+Ricardo Mendes Soares
+E?
+0:26:23.680 --> 0:26:24.50
+Ricardo Mendes Soares
+Buscar a.
+0:26:24.60 --> 0:26:33.620
+Ricardo Mendes Soares
+Que é horrível quanto a questão de transparência, mas DE jurisprudência, DOS a pódios na hora que você abre lá, calma, que eu Melo tá, ele é internet, consulta de juiz.
+0:26:36.570 --> 0:26:39.910
+Ricardo Mendes Soares
+Ele quer se consegue é fazer.
+0:26:41.260 --> 0:26:51.40
+Ricardo Mendes Soares
+Acho que com ele perguntar, eles fizeram essa semana uma pergunta sobre, é a possibilidade de trabalhar Acessibilidade no sistema.
+0:26:51.50 --> 0:26:51.780
+Ricardo Mendes Soares
+Excelente.
+0:26:51.870 --> 0:26:58.500
+Ricardo Mendes Soares
+E se a gente conseguir, inclusive, tirar o local, aquele olho tá, pode deixar uma faca e aporta mais rapidamente, porque é o que.
+0:27:0.70 --> 0:27:1.720
+Ricardo Mendes Soares
+SAID lá, ideia de criar.
+0:27:1.730 --> 0:27:2.990
+Ricardo Mendes Soares
+Ele tem umas altas lá, querem?
+0:27:5.970 --> 0:27:11.920
+Ricardo Mendes Soares
+E aí, quero criar mais um, que seria algo simplificado pra gente poder, né?
+0:27:13.820 --> 0:27:14.480
+Ricardo Mendes Soares
+IA subir, meu.
+0:27:16.310 --> 0:27:16.710
+Ricardo Mendes Soares
+Vou numa.
+0:27:21.710 --> 0:27:26.480
+Ricardo Mendes Soares
+Pegar o, pois a gente gerar, olha aí.
+0:27:27.330 --> 0:27:27.800
+Ricardo Mendes Soares
+Quando chegou?
+0:27:44.270 --> 0:27:46.620
+Ricardo Mendes Soares
+Você o primeiro é na.
+0:27:48.270 --> 0:27:48.660
+Ricardo Mendes Soares
+Gostei.
+0:27:56.640 --> 0:27:59.670
+Ricardo Mendes Soares
+Fica à vontade, aqui é aberto, é.
+0:28:1.940 --> 0:28:7.130
+Ricardo Mendes Soares
+A gente estava aqui nesse ponto, o Leo trouxe a gente a.
+0:28:10.570 --> 0:28:11.190
+Ricardo Mendes Soares
+Algo?
+0:28:12.930 --> 0:28:13.510
+Ricardo Mendes Soares
+Obrigado.
+0:28:16.320 --> 0:28:16.680
+Ricardo Mendes Soares
+Tá saindo?
+0:28:19.880 --> 0:28:20.580
+Ricardo Mendes Soares
+Tá tudo certo.
+0:28:23.970 --> 0:28:26.300
+Ricardo Mendes Soares
+É que quem faz a DE tiro, meu celular de conta.
+0:28:37.910 --> 0:28:39.800
+Ricardo Mendes Soares
+Tenho vontade de compras que a gente está lançando.
+0:28:42.10 --> 0:28:45.70
+Ricardo Mendes Soares
+Fazendo eles estão estudando justamente agora.
+0:28:56.190 --> 0:28:59.120
+Ricardo Mendes Soares
+A graça ou fazer direto?
+0:29:2.590 --> 0:29:2.870
+Ricardo Mendes Soares
+Esse.
+0:29:5.960 --> 0:29:6.620
+Ricardo Mendes Soares
+Coloca lá.
+0:29:9.590 --> 0:29:10.20
+Ricardo Mendes Soares
+Você.
+0:29:21.550 --> 0:29:22.270
+Ricardo Mendes Soares
+Estou mais a.
+0:29:32.830 --> 0:29:34.100
+Ricardo Mendes Soares
+Para possuir um disco.
+0:29:34.860 --> 0:29:36.0
+Ricardo Mendes Soares
+E aplicar isso aí.
+0:29:40.420 --> 0:29:41.120
+Ricardo Mendes Soares
+Será que me ver?
+0:29:44.130 --> 0:29:44.620
+Ricardo Mendes Soares
+Essa.
+0:29:44.630 --> 0:29:45.40
+Ricardo Mendes Soares
+Essa.
+0:29:45.50 --> 0:29:47.20
+Ricardo Mendes Soares
+Essa gente está mente era essa?
+0:29:48.660 --> 0:29:51.0
+Ricardo Mendes Soares
+É, mas aí, e aí, como eu estava jogando?
+0:29:53.860 --> 0:29:57.410
+Ricardo Mendes Soares
+Como esse aprendizado estava pensando na questão de prazo de 1 mês?
+0:29:57.700 --> 0:30:4.920
+Ricardo Mendes Soares
+É, seria mais ou menos momento que mês é quem que teria amadurecido outra parte e aí isso é uma bacana, é porque tu vai conseguir automatizar.
+0:30:4.930 --> 0:30:6.210
+Ricardo Mendes Soares
+Aqui vai um passo além.
+0:30:8.450 --> 0:30:8.990
+Ricardo Mendes Soares
+Jarra.
+0:30:10.890 --> 0:30:11.130
+Ricardo Mendes Soares
+Também?
+0:30:14.110 --> 0:30:15.100
+Ricardo Mendes Soares
+Seria só um.
+0:30:18.370 --> 0:30:18.750
+Ricardo Mendes Soares
+Sistema.
+0:30:30.900 --> 0:30:37.570
+Ricardo Mendes Soares
+Falando sobre estão aí, sabe como é que essa conversa de vocês tinha que acha?
+0:30:43.360 --> 0:30:43.670
+Ricardo Mendes Soares
+Dele?
+0:30:47.380 --> 0:30:47.720
+Ricardo Mendes Soares
+De ser?
+0:30:49.340 --> 0:30:50.410
+Ricardo Mendes Soares
+Nada DE.
+0:30:52.900 --> 0:30:55.770
+Ricardo Mendes Soares
+Também, o que eu penso sobre isso é que é já.
+0:30:57.420 --> 0:30:58.30
+Ricardo Mendes Soares
+Bebês não é?
+0:30:58.40 --> 0:31:1.600
+Ricardo Mendes Soares
+Quer estar migrando, avançar, mas são os 2 que estão muito.
+0:31:5.260 --> 0:31:6.250
+Ricardo Mendes Soares
+E aí a gente poderia.
+0:31:9.340 --> 0:31:9.940
+Ricardo Mendes Soares
+Eu gosto de Atendimento.
+0:31:12.20 --> 0:31:13.160
+Ricardo Mendes Soares
+Nesta linha, né? Numa.
+0:31:23.450 --> 0:31:25.620
+Ricardo Mendes Soares
+Preciso sentir, né?
+0:31:25.630 --> 0:31:32.810
+Ricardo Mendes Soares
+E aí também, já que entraria no fluxo de como é que eles fazem para publicar as coisas dentro da nossa escrita?
+0:31:33.390 --> 0:31:34.490
+Ricardo Mendes Soares
+E aí quer que eu acho?
+0:31:37.850 --> 0:31:40.20
+Ricardo Mendes Soares
+Acho que está na cabeça dos magistrados.
+0:31:42.80 --> 0:31:42.490
+Ricardo Mendes Soares
+Vocês.
+0:31:44.550 --> 0:31:50.590
+Ricardo Mendes Soares
+Você vai produzir, deixa, você vai produzir uma cobra, produzir um mundo.
+0:31:52.910 --> 0:31:55.160
+Ricardo Mendes Soares
+Já dei um foco, Mato no algo.
+0:32:1.160 --> 0:32:1.520
+Ricardo Mendes Soares
+Esse.
+0:32:9.30 --> 0:32:9.750
+Ricardo Mendes Soares
+Eu consiga.
+0:32:12.880 --> 0:32:13.270
+Ricardo Mendes Soares
+É?
+0:32:15.280 --> 0:32:17.70
+Ricardo Mendes Soares
+É a inteligência artificial.
+0:32:20.380 --> 0:32:22.330
+Ricardo Mendes Soares
+E aí você trabalha com assessor, nós?
+0:32:24.870 --> 0:32:25.360
+Ricardo Mendes Soares
+Correto?
+0:32:25.370 --> 0:32:27.400
+Ricardo Mendes Soares
+Está correto? É.
+0:32:27.410 --> 0:32:28.920
+Ricardo Mendes Soares
+Seria essa.
+0:32:32.270 --> 0:32:35.240
+Ricardo Mendes Soares
+Aí eu acho que é isso aí, isso aí, eu acho que seria sustentável.
+0:32:35.630 --> 0:32:37.560
+Ricardo Mendes Soares
+E as decisões de interesse?
+0:32:37.570 --> 0:32:40.570
+Ricardo Mendes Soares
+Já saí sem, seria?
+0:32:42.810 --> 0:32:47.160
+Ricardo Mendes Soares
+Você acha que é o pra vocês ter vender a essas coisas, sabe, a gente Dourado.
+0:32:48.860 --> 0:32:52.700
+Ricardo Mendes Soares
+Tentando avaliar praça novo.
+0:32:57.910 --> 0:33:1.110
+Ricardo Mendes Soares
+Isso DOS 1000 que buscava.
+0:33:1.440 --> 0:33:4.400
+Ricardo Mendes Soares
+Ou seja, se a gente conseguir traduzir, você consegue.
+0:33:9.990 --> 0:33:11.300
+Ricardo Mendes Soares
+A viagem que eu te falar.
+0:33:13.560 --> 0:33:16.680
+Ricardo Mendes Soares
+Claro que você depois pode usar os outros trs.
+0:33:21.270 --> 0:33:24.710
+Ricardo Mendes Soares
+Vai ser só interna depois da dividido, diluído por.
+0:33:28.590 --> 0:33:32.10
+Ricardo Mendes Soares
+Não, depois eu de novo, aí.
+0:33:37.30 --> 0:33:37.950
+Ricardo Mendes Soares
+Que é maravilhoso.
+0:33:48.520 --> 0:33:50.210
+Ricardo Mendes Soares
+Papel gera um processo.
+0:33:58.90 --> 0:34:3.240
+Ricardo Mendes Soares
+Não vai ter que a agilizar, a gente pode.
+0:34:4.890 --> 0:34:8.470
+Ricardo Mendes Soares
+Acho que posso tirar quando estava comigo também.
+0:34:8.480 --> 0:34:9.680
+Ricardo Mendes Soares
+Ainda não falei, oficial.
+0:34:11.310 --> 0:34:20.560
+Ricardo Mendes Soares
+O que tá certo, vou procurar aqui, mas somente, mas é um banho, porque uma vez que você quer ela padronizar, imagina o que está fazendo isso aqui vai.
+0:34:24.980 --> 0:34:28.670
+Ricardo Mendes Soares
+Ele já vai ser uma estrutura pronta para partir, daí a gente poder fazer.
+0:34:32.310 --> 0:34:34.850
+Ricardo Mendes Soares
+Sim, sim, sexo.
+0:34:34.860 --> 0:34:35.880
+Ricardo Mendes Soares
+A formulário, né?
+0:34:36.120 --> 0:34:36.690
+Ricardo Mendes Soares
+Por nada aí.
+0:34:38.940 --> 0:34:39.980
+Ricardo Mendes Soares
+Para está normatizado.
+0:34:39.990 --> 0:34:41.250
+Ricardo Mendes Soares
+Nova parte ruim aqui.
+0:34:43.80 --> 0:34:43.600
+Ricardo Mendes Soares
+Ação ela.
+0:34:48.980 --> 0:34:49.520
+Ricardo Mendes Soares
+Procurar aqui.
+0:34:51.570 --> 0:34:57.380
+Ricardo Mendes Soares
+É deliberar com a salsa do ponto de vista, conhecia?
+0:34:58.970 --> 0:35:0.260
+Ricardo Mendes Soares
+Não tinha que ficaria.
+0:35:0.320 --> 0:35:3.390
+Ricardo Mendes Soares
+A gente vai discorrer, é amor que não acho que.
+0:35:7.980 --> 0:35:8.360
+Ricardo Mendes Soares
+Pois é.
+0:35:13.750 --> 0:35:16.480
+Ricardo Mendes Soares
+Espera aí, já foi conversando, tá?
+0:35:17.870 --> 0:35:18.750
+Ricardo Mendes Soares
+E aí pro site.
+0:35:22.360 --> 0:35:23.870
+Ricardo Mendes Soares
+Certo, pronto.
+0:35:25.440 --> 0:35:26.100
+Ricardo Mendes Soares
+Por que é que vai?
+0:35:30.410 --> 0:35:31.250
+Ricardo Mendes Soares
+Temos uma fábrica.
+0:35:34.690 --> 0:35:37.200
+Ricardo Mendes Soares
+Fácil de é um direito.
+0:35:52.90 --> 0:35:52.670
+Ricardo Mendes Soares
+Para vocês?
+0:35:54.420 --> 0:35:54.750
+Ricardo Mendes Soares
+Legal.
+0:36:5.90 --> 0:36:5.400
+Ricardo Mendes Soares
+Gay?
+0:36:9.930 --> 0:36:13.180
+Ricardo Mendes Soares
+No grupo, aí ó, tu vai ter tempo.
+0:36:13.970 --> 0:36:16.310
+Ricardo Mendes Soares
+NETO, me encontrar ele.
+0:36:26.350 --> 0:36:28.620
+Ricardo Mendes Soares
+Apache toca pulando já.
+0:36:30.190 --> 0:36:32.850
+Ricardo Mendes Soares
+Eu lembrei, é que a gente estava falando de consumo de arte.
+0:36:46.380 --> 0:36:47.590
+Ricardo Mendes Soares
+É mais uma causa?
+0:36:49.510 --> 0:36:50.160
+Ricardo Mendes Soares
+Faz sentido.
+0:37:2.330 --> 0:37:3.560
+Ricardo Mendes Soares
+Repositório, né?
+0:37:5.160 --> 0:37:7.150
+Ricardo Mendes Soares
+Já então, tudo o que é feito.
+0:37:10.910 --> 0:37:11.100
+Ricardo Mendes Soares
+Só.
+0:37:24.520 --> 0:37:25.790
+Ricardo Mendes Soares
+Me fale lá usar o HELIA.
+0:37:30.90 --> 0:37:30.990
+Ricardo Mendes Soares
+O que é o que a gente fez.
+0:37:34.760 --> 0:37:35.60
+Ricardo Mendes Soares
+Ações?
+0:37:39.580 --> 0:37:42.790
+Ricardo Mendes Soares
+Ele ontem estava estudando a foto que ele foi ele que eu mandei aquela questão.
+0:37:51.90 --> 0:37:51.310
+Ricardo Mendes Soares
+Ai.
+0:37:54.690 --> 0:37:55.910
+Ricardo Mendes Soares
+É o então.
+0:37:55.920 --> 0:37:58.520
+Ricardo Mendes Soares
+Deixa, deixa, não deixa o nosso velho nessa.
+0:38:11.140 --> 0:38:11.420
+Ricardo Mendes Soares
+A.
+0:38:11.430 --> 0:38:11.750
+Ricardo Mendes Soares
+É tenso.
+0:38:23.600 --> 0:38:24.20
+Ricardo Mendes Soares
+Tem algum?
+0:38:26.880 --> 0:38:38.60
+Ricardo Mendes Soares
+Um alta, então eu acho que já poderia estar ajudando na hora que tem tudo a ver com nossa de segurança e a japa e do Rafael para operar, ele diz assim, ó, isso aqui.
+0:38:40.250 --> 0:38:43.60
+Ricardo Mendes Soares
+Ele falou pra mim que tava gente, falou tarde que.
+0:38:47.860 --> 0:38:48.390
+Ricardo Mendes Soares
+Concordar?
+0:38:52.240 --> 0:38:55.310
+Ricardo Mendes Soares
+Dela, não é?
+0:38:55.320 --> 0:38:56.230
+Ricardo Mendes Soares
+Eu posso pelo.
+0:39:1.460 --> 0:39:4.590
+Ricardo Mendes Soares
+A gente é porque a gente dividiu parte.
+0:39:5.350 --> 0:39:15.750
+Ricardo Mendes Soares
+2 são por aqui hoje está mais, aí a cada 15 dias DE aqui vai para o vai ficar na parte de dados.
+0:39:17.430 --> 0:39:18.990
+Ricardo Mendes Soares
+Ele e o Rafael que está.
+0:39:32.130 --> 0:39:34.270
+Ricardo Mendes Soares
+Porque e aí?
+0:39:42.720 --> 0:39:43.0
+Ricardo Mendes Soares
+Carta.
+0:39:56.0 --> 0:39:57.760
+Ricardo Mendes Soares
+Mas a gente 3.
+0:40:1.620 --> 0:40:5.110
+Ricardo Mendes Soares
+Posso te não consegue bater, não estou mesmo.
+0:40:6.640 --> 0:40:7.840
+Ricardo Mendes Soares
+Não, eu também acho.
+0:40:10.710 --> 0:40:13.840
+Ricardo Mendes Soares
+Eu te encontrá-lo essa questão, porque como tinha se DE Albino.
+0:40:15.630 --> 0:40:22.550
+Ricardo Mendes Soares
+Antes e aí meu dente estava sem uma solução, mas a gente pode ver, tirar aquele Band.
+0:40:24.210 --> 0:40:28.180
+Ricardo Mendes Soares
+Pausa porque a mas aí tudo.
+0:40:32.520 --> 0:40:40.20
+Ricardo Mendes Soares
+Eu acho isso porque se for, bastando também, aí a gente reside, mas eu acho que fiquei corrige mais uma vez, eu acho.
+0:40:41.980 --> 0:40:44.510
+Ricardo Mendes Soares
+Vai levar tudo, compraria isso?
+0:40:54.810 --> 0:41:3.580
+Ricardo Mendes Soares
+Prazo pra gente fraca para poder ficar aqui pra ficar aqui, eu preciso pra gente poder ficar, pra poder precisa gravar um negócio aqui, certo?
+0:41:4.50 --> 0:41:5.480
+Ricardo Mendes Soares
+Então como é que foi a divisão?
+0:41:7.340 --> 0:41:12.270
+Ricardo Mendes Soares
+Ruas do site, eles vão começar a fazer os protótipos offline mesmo.
+0:41:12.280 --> 0:41:16.120
+Ricardo Mendes Soares
+Aqui a gente tá notando estruturas, pera aí, pera aí, volta aí, posso?
+0:41:16.730 --> 0:41:25.310
+Ricardo Mendes Soares
+Só avisa quando estava gravando aquilo tudo é porque eu estou fazendo um teste de próxima semana até.
+0:41:29.210 --> 0:41:29.780
+Ricardo Mendes Soares
+Fala do doutor.
+0:41:32.760 --> 0:41:40.630
+Ricardo Mendes Soares
+Pronto aí, seguinte pra quem nós fazemos o site não é parte de TI especificamente.
+0:41:41.60 --> 0:41:52.860
+Ricardo Mendes Soares
+Eu acho que internamente, logo no começo, ele só não tava estrutura aqui e começar a desenvolver aqui a gente já sabe ou isso é por quanto a questão da do site, né?
+0:41:52.870 --> 0:41:53.200
+Ricardo Mendes Soares
+Beleza.
+0:41:53.210 --> 0:41:54.380
+Ricardo Mendes Soares
+Eu gosto, tá falando que não estava.
+0:41:54.390 --> 0:41:55.220
+Ricardo Mendes Soares
+Cruz tura local.
+0:41:55.230 --> 0:42:12.330
+Ricardo Mendes Soares
+Se ela DE vezes problema, eu acho princípio antes de começar a pensar em desenvolver, pensar, a gente querer meio que vai ter o site vai precisar ser desenvolvido pra gente pensar na arquitetura do site arquitetura do banco, tipo de coisa que não adianta, a gente começa a se envolver, não aí, isso foi semente, não fazer uma pergunta.
+0:42:16.250 --> 0:42:20.670
+Ricardo Mendes Soares
+Se o planejamento do site se ele já tem algum movimentação.
+0:42:22.420 --> 0:42:31.280
+Ricardo Mendes Soares
+Oi, Betty, já é nosso item que é bom, que cria o que a gente tá tendo definido você olhar naquele logo ali qualquer conta a cama ali, vários.
+0:42:33.130 --> 0:42:35.380
+Ricardo Mendes Soares
+Inclusive outras, eu posso sentar.
+0:42:35.930 --> 0:42:37.510
+Ricardo Mendes Soares
+Tá aí.
+0:42:37.520 --> 0:42:45.430
+Ricardo Mendes Soares
+Aí eu achei mais um tipo, sentar é a gente fazendo um benchmark assim, tem uns sites de Laboratório nesta, até que vai ser uma outra compra DE ali.
+0:42:45.440 --> 0:42:47.630
+Ricardo Mendes Soares
+Tem um site, Laboratório pra gente entender.
+0:42:48.20 --> 0:42:51.950
+Ricardo Mendes Soares
+Requisitos, NETO assim, ó, tem que ter isso, tem que ter isso, tem que ter isso.
+0:42:55.880 --> 0:42:58.530
+Ricardo Mendes Soares
+Mas deixa eu só dar um lugar só tem, tem alguma forma?
+0:43:1.590 --> 0:43:2.820
+Ricardo Mendes Soares
+É, não, aqui tem muito.
+0:43:2.830 --> 0:43:3.60
+Ricardo Mendes Soares
+Esse.
+0:43:3.70 --> 0:43:4.410
+Ricardo Mendes Soares
+Essa norma de transparência.
+0:43:10.180 --> 0:43:10.620
+Ricardo Mendes Soares
+Site do.
+0:43:12.270 --> 0:43:17.510
+Ricardo Mendes Soares
+Ele vai permanecer com as informações normativas que são necessárias para atualizar agora?
+0:43:17.520 --> 0:43:18.70
+Ricardo Mendes Soares
+Deixa lá.
+0:43:18.400 --> 0:43:25.590
+Ricardo Mendes Soares
+Só que, como o site do TRE nunca amarrado disso, tem outros lugares que já fazem assim menor e fazer assim.
+0:43:25.600 --> 0:43:30.420
+Ricardo Mendes Soares
+A gente tem um hot site, ele fica um link no site do LIODS TRE e vale.
+0:43:32.320 --> 0:43:37.90
+Ricardo Mendes Soares
+Só que eu sei que ele tem uma norma certo que eu já tive uma banda com a oportunidade ler.
+0:43:37.100 --> 0:43:44.800
+Ricardo Mendes Soares
+Lembra que eu lembrou que vagamente alguns pontos, uma delas é essa que você citou aí, que qualquer ferramenta ela tem que ser usada?
+0:43:46.730 --> 0:43:48.380
+Ricardo Mendes Soares
+Judiciário no Brasil, certo?
+0:43:48.690 --> 0:43:52.690
+Ricardo Mendes Soares
+Perfeito, eu acho que não está dentro do que ele falou, testando os requisitos, né?
+0:43:52.700 --> 0:43:55.750
+Ricardo Mendes Soares
+A gente tem que fazer uma coisa nada.
+0:43:55.760 --> 0:43:59.570
+Ricardo Mendes Soares
+Na questão do site, ainda vou baixar o nome que eu vou jogar minha visão.
+0:44:0.0 --> 0:44:2.700
+Ricardo Mendes Soares
+Eu Acredito que não seria a ferramenta, mas seria um.
+0:44:2.710 --> 0:44:3.290
+Ricardo Mendes Soares
+Estou bem.
+0:44:3.310 --> 0:44:5.630
+Ricardo Mendes Soares
+De comunicação com o público, né?
+0:44:5.640 --> 0:44:6.360
+Ricardo Mendes Soares
+E aí entra.
+0:44:10.210 --> 0:44:11.800
+Ricardo Mendes Soares
+Agora, as ferramentas viar.
+0:44:11.810 --> 0:44:15.650
+Ricardo Mendes Soares
+Em algum momento a gente pode ser que transformar projetos.
+0:44:15.660 --> 0:44:17.10
+Ricardo Mendes Soares
+Agora entendi.
+0:44:18.770 --> 0:44:32.890
+Ricardo Mendes Soares
+Eu disse porque AO nosso projeto na gente, venda de autônoma e que no PJ é faça alguns comandos lá e sai uma minuta com essa linguagem simples, certo?
+0:44:33.170 --> 0:44:38.910
+Ricardo Mendes Soares
+A questão do site é para toda a comunicação do laboratório até a é o site do laboratório.
+0:44:43.70 --> 0:44:46.680
+Ricardo Mendes Soares
+A partida e armas as vendas é a ferramenta canção 2 coisas.
+0:44:51.60 --> 0:44:52.470
+Ricardo Mendes Soares
+Documentos a partir daí é.
+0:44:52.480 --> 0:44:57.780
+Ricardo Mendes Soares
+É um outro produto, porque aí os nossos projetos, por exemplo, estão disponíveis no renova.
+0:44:57.790 --> 0:44:59.990
+Ricardo Mendes Soares
+Jura que vai permanecer colocando no renova Ju.
+0:45:3.0 --> 0:45:3.730
+Ricardo Mendes Soares
+Limitar.
+0:45:5.580 --> 0:45:7.980
+Ricardo Mendes Soares
+Acho que isso é muito complicada.
+0:45:7.990 --> 0:45:11.80
+Ricardo Mendes Soares
+E aí a gente vai manter lá que as ferramentas de torcional.
+0:45:11.90 --> 0:45:12.830
+Ricardo Mendes Soares
+Mas a gente quer um lugar para manter os nossos.
+0:45:12.840 --> 0:45:14.840
+Ricardo Mendes Soares
+Ricardo LIODS está fazendo projetos.
+0:45:15.250 --> 0:45:22.710
+Ricardo Mendes Soares
+Entrar agora aqui no site do tribunal é muito pouco.
+0:45:22.750 --> 0:45:28.740
+Ricardo Mendes Soares
+É muito pouco a cara com Inovação mantém o mesmo padrão do outro quanto eram os projetos?
+0:45:28.750 --> 0:45:30.390
+Ricardo Mendes Soares
+A nosso projeto aqui, coloca os vídeos.
+0:45:33.780 --> 0:45:35.710
+Ricardo Mendes Soares
+Porque ele não tem controle, que é.
+0:45:35.720 --> 0:45:38.90
+Ricardo Mendes Soares
+Não estou liguagem aquele branco com aquele mesmo.
+0:45:38.100 --> 0:45:41.50
+Ricardo Mendes Soares
+Sim, aí vira só muda só a sigla do estado, né?
+0:45:42.830 --> 0:45:43.530
+Ricardo Mendes Soares
+Ainda?
+0:45:47.330 --> 0:45:49.420
+Ricardo Mendes Soares
+Manter institucional tudo certo?
+0:45:49.430 --> 0:46:3.680
+Ricardo Mendes Soares
+Vou ter informações atualizadas, reclamar a gente, manter mais o site, você nas Apresentações, acesso no site de outro seria esse site projeto integração com né exatamente isso?
+0:46:5.460 --> 0:46:6.620
+Ricardo Mendes Soares
+Aí assim, só acho que é.
+0:46:6.630 --> 0:46:16.570
+Ricardo Mendes Soares
+É pela ordem, é que que assim essa essas definições, as definições específicas, eu acho que depois tem que ter uma reunião específica para definir pra onde vai os projetos.
+0:46:16.580 --> 0:46:21.990
+Ricardo Mendes Soares
+Eu acho que agora o que fica como deliberação da da reunião aqui é que serão esses 2 projetos.
+0:46:22.350 --> 0:46:28.310
+Ricardo Mendes Soares
+11, voltado pra pra IA generativa engenharia de prompt item 2.
+0:46:28.320 --> 0:46:36.430
+Ricardo Mendes Soares
+Subprojetos, que é um voltar para portal de compras e a aplicação posterior para linguagem simples, e a outra o hot site do do LIODS.
+0:46:36.940 --> 0:46:45.930
+Ricardo Mendes Soares
+E aí as equipes vão ser divididas, não vão ter 2 membros da equipe, era a equipe de TI que vão ficar com, com um projeto 2 menos pra outra.
+0:46:46.190 --> 0:46:51.650
+Ricardo Mendes Soares
+Sobre a orientação nesse ponto, tanto do Benjamin como da da da carinha Benjamin, mais direto.
+0:46:51.660 --> 0:46:54.50
+Ricardo Mendes Soares
+Carinho como ponto de ponto de de suporte.
+0:46:54.990 --> 0:47:13.10
+Ricardo Mendes Soares
+E aí, o sal, e aí o Joao fica como outro local lá da da da esta aí eu queria ver se na sexta feira eu passo eu, Pedro, para já começar a falar do pai que lá a gente como é que colegas, como é que vai pegando o fluxo de trabalho para ir gerando as publicações?
+0:47:13.20 --> 0:47:17.640
+Ricardo Mendes Soares
+Jair jajá validar o acesso deles alguém te laves não, beleza?
+0:47:17.650 --> 0:47:23.570
+Ricardo Mendes Soares
+O nexus que a guerra a gente já operação e aí você já podem ser nesse mesmo dia reunião para definir essas questões de cada um que um dividido.
+0:47:29.60 --> 0:47:40.800
+Ricardo Mendes Soares
+Não é só pelo prazo, porque Pra Ela tem que colocar o prazo na no prazo, dando prazo pra pra pra se tem essa deliberação, vai ser a criação e o prazo que vai ver que o projeto é o prazo que vão atuar, que é pra revisão.
+0:47:40.890 --> 0:47:45.720
+Ricardo Mendes Soares
+Um mês, eu acho que todos ali há esse mês, né?
+0:47:45.820 --> 0:47:49.20
+Ricardo Mendes Soares
+Que eles vão atuar nessa outra atividade para, acompanhando semanalmente.
+0:47:49.30 --> 0:47:51.30
+Ricardo Mendes Soares
+Quando ela falou assim, tal.
+0:47:51.540 --> 0:47:54.130
+Ricardo Mendes Soares
+É, e é isso.
+0:47:54.260 --> 0:47:57.470
+Ricardo Mendes Soares
+Nisso a gente ganhava, valia nosso prazo médio.
+0:47:57.480 --> 0:48:1.870
+Ricardo Mendes Soares
+Depois reavalia e, bom, bom te ouvir interessados, né?
+0:48:1.880 --> 0:48:3.130
+Ricardo Mendes Soares
+Pois é, é exato.
+0:48:8.420 --> 0:48:12.360
+Ricardo Mendes Soares
+Tirar todas as dúvidas que este vai ser com relação aí, assim, nossa.
+0:48:15.570 --> 0:48:21.830
+Ricardo Mendes Soares
+Enquanto eles mudarem, perguntar se tiverem coisas que a gente se perguntar o que ele não, Silva Kane, porque isso aqui me ver?
+0:48:21.840 --> 0:48:27.280
+Ricardo Mendes Soares
+Com esse quinto, é verdade, qualquer coisa já tem outra, todo mundo conta DE, aliás.
+0:48:28.150 --> 0:48:30.10
+Ricardo Mendes Soares
+São 11 horas a partir de 11 horas.
+0:48:30.20 --> 0:48:32.80
+Ricardo Mendes Soares
+Começa a possibilidade de qualquer momento, o presidente.
+0:48:36.540 --> 0:48:43.740
+Ricardo Mendes Soares
+Falei sim, filha, fala agora porque a gente deu muita visão de do tônico tudo.
+0:48:43.750 --> 0:48:44.520
+Ricardo Mendes Soares
+Mas é agora.
+0:48:44.630 --> 0:48:50.160
+Ricardo Mendes Soares
+Eu adoro o que fazer agora e o seu próximo passo deles, o pessoal que vai te dar por aí.
+0:48:50.170 --> 0:49:4.550
+Ricardo Mendes Soares
+Na sexta-feira eu vou vou vou trazer o portal de então, já vou trazer os 3 modelos que a gente pense DOS aí a gente faz o repasse para vocês como acesso e a e a ideia era montar esses modelos.
+0:49:4.560 --> 0:49:6.80
+Ricardo Mendes Soares
+Dentro do portal de compras?
+0:49:10.600 --> 0:49:11.800
+Ricardo Mendes Soares
+Página de cadastro.
+0:49:18.320 --> 0:49:20.890
+Ricardo Mendes Soares
+E a gente traz o palco para a primeira pessoa.
+0:49:24.690 --> 0:49:30.580
+Ricardo Mendes Soares
+Vocês ainda conseguem pegar mais ou menos um modelo de layout que a turma de lá trabalhando, né?
+0:49:38.270 --> 0:49:48.650
+Ricardo Mendes Soares
+Ai não estou aqui, Oh, tela de cadastro em cima disso, passo seguinte é qual é o ponto que eu vou fazer por esse rango?
+0:49:48.760 --> 0:49:51.610
+Ricardo Mendes Soares
+Como é que eu vou buscar lá no novo chat?
+0:49:51.620 --> 0:49:59.240
+Ricardo Mendes Soares
+Volta, não vai se vai interagir com o modelo, é, é, é.
+0:50:0.20 --> 0:50:4.800
+Ricardo Mendes Soares
+Digamos assim, está no um exemplo prático assim, né?
+0:50:4.890 --> 0:50:5.770
+Ricardo Mendes Soares
+Eu tenho um campo.
+0:50:5.970 --> 0:50:14.580
+Ricardo Mendes Soares
+Ele foi esse modelo que corresponde Star é um campo que tem resumo, justificativa, resumo, justificativa e conclusão esses 3 coisas.
+0:50:14.660 --> 0:50:15.480
+Ricardo Mendes Soares
+Isso tem documento.
+0:50:15.490 --> 0:50:19.590
+Ricardo Mendes Soares
+Quer dizer, o que vai fazer um pro DE primeiro uma peladinha?
+0:50:19.800 --> 0:50:21.210
+Ricardo Mendes Soares
+Onde que vai representar?
+0:50:21.270 --> 0:50:26.140
+Ricardo Mendes Soares
+Nós vamos justificativa, conclusão, vai ter uns você pode lá digitar o texto.
+0:50:26.240 --> 0:50:27.800
+Ricardo Mendes Soares
+Está bem, está o texto.
+0:50:28.210 --> 0:50:34.710
+Ricardo Mendes Soares
+E se tu fizer isso dentro do da interface, está fazendo, ele vai gerar um documento escrito nesse formato.
+0:50:34.720 --> 0:50:36.540
+Ricardo Mendes Soares
+Primeiro passo é isso, entendeu?
+0:50:36.870 --> 0:50:38.630
+Ricardo Mendes Soares
+Fazer é só existia, terminou.
+0:50:38.640 --> 0:50:44.640
+Ricardo Mendes Soares
+São de volume o primeiro documento que a gente vai trabalhar item 17 Campos prontos.
+0:50:44.650 --> 0:50:58.780
+Ricardo Mendes Soares
+Cada campo desse vai gerar um prompt pro chat re PT e vai receber uma resposta depois que as interfaces tiver pronta triciclo, tiver pronta aqui, então eu consigo gerar o documento através do Souto.
+0:50:58.790 --> 0:51:4.570
+Ricardo Mendes Soares
+Esse é o primeiro passo, uma vez que está feito agora, como é o pronto que a gente faz, gerar, como é que isso vai se entregar?
+0:51:4.580 --> 0:51:8.960
+Ricardo Mendes Soares
+Cada um desses Campos, e vai ser automatizado. Pop.
+0:51:8.970 --> 0:51:9.200
+Ricardo Mendes Soares
+Como.
+0:51:9.210 --> 0:51:11.0
+Ricardo Mendes Soares
+Como é que vai fazer isso DE essas coisas?
+0:51:11.520 --> 0:51:18.540
+Ricardo Mendes Soares
+Depois é unicamente vai ter o essa telinha com o auxílio do chat.
+0:51:18.550 --> 0:51:20.710
+Ricardo Mendes Soares
+PT já andou comigo é?
+0:51:20.750 --> 0:51:28.720
+Ricardo Mendes Soares
+E aí, magicamente, você deve falar dentro dessa linha que a gente poderia trabalhar essa visão.
+0:51:29.710 --> 0:51:31.890
+Ricardo Mendes Soares
+Etapas primeiro a gente faz um.
+0:51:34.30 --> 0:51:34.820
+Ricardo Mendes Soares
+Sem nada.
+0:51:36.810 --> 0:51:37.260
+Ricardo Mendes Soares
+Verdade?
+0:51:40.300 --> 0:51:40.810
+Ricardo Mendes Soares
+Interessante.
+0:51:43.130 --> 0:51:43.480
+Ricardo Mendes Soares
+Sim.
+0:51:43.810 --> 0:51:44.110
+Ricardo Mendes Soares
+O que é?
+0:51:44.120 --> 0:51:49.340
+Ricardo Mendes Soares
+Enquanto alguém está fazendo o frouxo do re, é que alguem está estudando, como é que vai?
+0:51:49.350 --> 0:51:52.620
+Ricardo Mendes Soares
+Andre, que é grau pronto, e aí, como é que vai conversar?
+0:51:52.630 --> 0:51:54.50
+Ricardo Mendes Soares
+E você, teria trabalhos paralelos.
+0:51:58.110 --> 0:52:1.670
+Ricardo Mendes Soares
+Nos dados de dia ou bem pensado?
+0:52:3.750 --> 0:52:3.980
+Ricardo Mendes Soares
+E aí?
+0:52:3.990 --> 0:52:9.200
+Ricardo Mendes Soares
+É por isso que a gente tentou evitar num puta mais outra coisa, porque está bem integrado esses 2 e queria dizer HELIA, andam juntos.
+0:52:9.210 --> 0:52:13.120
+Ricardo Mendes Soares
+EE aí amanhã, na sexta DE aqui.
+0:52:14.590 --> 0:52:19.530
+Ricardo Mendes Soares
+Já já vem com a solução para vocês acessarem hit, né?
+0:52:19.540 --> 0:52:22.230
+Ricardo Mendes Soares
+Isso se mais e agora eu tenho nenhum traço.
+0:52:22.240 --> 0:52:25.480
+Ricardo Mendes Soares
+De ALN, ê direto.
+0:52:25.490 --> 0:52:27.830
+Ricardo Mendes Soares
+Agora é a partir do pronto, sim.
+0:52:27.840 --> 0:52:28.910
+Ricardo Mendes Soares
+Então, o que é que eu vou te fazer?
+0:52:28.920 --> 0:52:34.210
+Ricardo Mendes Soares
+Vou te mostrar o modelo, vou dizer pra esse campo a sugestão que a gente tem essa aqui, né?
+0:52:34.640 --> 0:52:48.260
+Ricardo Mendes Soares
+Como é que você vai fazer para a partir da interface dele fazer a pergunta se vai ser uma só um botão de copiar para pessoa, ir lá colar e trazer a resposta, ou se você vai conseguir ter admirar DE com a biblioteca, eu vou a gente.
+0:52:49.940 --> 0:52:50.250
+Ricardo Mendes Soares
+Obrigada.
+0:52:51.990 --> 0:52:58.430
+Ricardo Mendes Soares
+Agora, lembrando também que quando está falando do do, do, da outra parte da aqui, a questão do LIODS ela em outro.
+0:52:58.440 --> 0:52:59.220
+Ricardo Mendes Soares
+Em outro país, né?
+0:52:59.370 --> 0:53:3.680
+Ricardo Mendes Soares
+Porque você está falando muito do ZAP do site mecânica?
+0:53:3.790 --> 0:53:6.280
+Ricardo Mendes Soares
+Sim, sim, sim, sim, é o mesmo para com.
+0:53:6.290 --> 0:53:20.970
+Ricardo Mendes Soares
+Sim, sim, sim, quer e aí era só acelerou o processo que, por exemplo, foi lá conheceu conhecer uma ferramenta da minha linha na hora que ele monta a isso, eu jogo numa biblioteca.
+0:53:20.980 --> 0:53:24.440
+Ricardo Mendes Soares
+A gente cria um serviço em e aí eles ficaram.
+0:53:24.450 --> 0:53:29.860
+Ricardo Mendes Soares
+Item que todo o sistema implementa, já tem, já tem o meu serviço que vai lá e faz e fica centraliza.
+0:53:29.870 --> 0:53:36.480
+Ricardo Mendes Soares
+Fica mais fácil pra gente controlar custo depois de reproduzir, mas agora eu sei que eu fiquei com uma parte chata da coisa.
+0:53:38.430 --> 0:53:38.660
+Ricardo Mendes Soares
+É.
+0:53:38.870 --> 0:53:43.240
+Ricardo Mendes Soares
+Conseguiu não DE gente, esse DE tá ela, lâmpadas in saindo, né?
+0:53:43.870 --> 0:53:46.170
+Ricardo Mendes Soares
+Ele deve ter criatividade, só que a gente tem umas amarras, né?
+0:53:47.90 --> 0:53:49.940
+Ricardo Mendes Soares
+Falou sinapse aí e na norma centro de hotta.
+0:53:49.950 --> 0:53:53.710
+Ricardo Mendes Soares
+Ele diz que e o que você fez por interne, por.
+0:53:55.320 --> 0:54:0.230
+Ricardo Mendes Soares
+Modelos que encherão disponibilizada deles sinapse é onde é que entra a possibilidade da gente contratar.
+0:54:0.240 --> 0:54:5.700
+Ricardo Mendes Soares
+O chefe de PT para a maioria dos dos dos chat bot, por exemplo, eles não estão consumindo.
+0:54:5.710 --> 0:54:13.150
+Ricardo Mendes Soares
+Se não precisar ideia do sinapses, e aí onde eu mas eu só conto por uma parte, não tira são de data, é o detalhe.
+0:54:13.630 --> 0:54:21.420
+Ricardo Mendes Soares
+É quando a gente vai ficar em desenvolvimento, mas é porque a gente pode colocar o modelo lá em algum momento.
+0:54:21.750 --> 0:54:28.170
+Ricardo Mendes Soares
+É não, mas é o jogo em geral que quem está colocando é porque o sinal para desenvolvimento e aí também queria integra com a questão de data.
+0:54:28.180 --> 0:54:32.840
+Ricardo Mendes Soares
+Ajuste para por todos os CNJ, aí é quando a gente consumir.
+0:54:33.390 --> 0:54:35.180
+Ricardo Mendes Soares
+É isso, estão lá.
+0:54:39.230 --> 0:54:41.210
+Ricardo Mendes Soares
+Só depois que ai.
+0:54:43.390 --> 0:54:46.440
+Ricardo Mendes Soares
+Desenvolvimento de fora nessa parte aí, esse negócio aí.
+0:54:48.150 --> 0:54:51.390
+Ricardo Mendes Soares
+Conexidade, então, documento, lá foi meu pé.
+0:54:51.400 --> 0:54:54.180
+Ricardo Mendes Soares
+Aí no caso, teria que passar por isso na hora.
+0:54:54.190 --> 0:54:58.400
+Ricardo Mendes Soares
+Isso é e que inclusive, se for o caso, a gente faz por fora, por enquanto.
+0:55:4.910 --> 0:55:14.290
+Ricardo Mendes Soares
+Você não vai ter isso, mas quando aplicação, envolve pessoal ou sentença, sempre tem que incluir a questão do estudo de retirada de viés, sim.
+0:55:14.590 --> 0:55:15.100
+Ricardo Mendes Soares
+Então, assim.
+0:55:16.970 --> 0:55:25.440
+Ricardo Mendes Soares
+Trabalhar por fora aí no momento que a coisa só ficar maior, aí esse modelo HELIA treinando com a gente carrega justamente essa questão.
+0:55:33.70 --> 0:55:37.460
+Ricardo Mendes Soares
+Supervisionado, ele te dá uma resposta, seria, não é?
+0:55:38.220 --> 0:55:44.400
+Ricardo Mendes Soares
+É parcial e aí a ideia é verificar o que que ele está gerando de resultado.
+0:55:44.410 --> 0:55:51.190
+Ricardo Mendes Soares
+Eu tenho que isso tá sendo, é, está está ou racista ou qualquer outra coisa?
+0:55:51.200 --> 0:55:52.30
+Ricardo Mendes Soares
+Assim, ainda está aquém.
+0:55:52.40 --> 0:55:55.280
+Ricardo Mendes Soares
+Importante, doutor Tiago, debater muito na questão da questão da trilha.
+0:55:55.290 --> 0:56:1.80
+Ricardo Mendes Soares
+Então, assim é o que resumindo os papéis de trabalho e as validações que a gente vai fazer com relação aos nossos projetos.
+0:56:1.90 --> 0:56:7.0
+Ricardo Mendes Soares
+Então, o que que vocês foram construindo também é lembrar de poder documentar essas questões para depois a gente poder fazer.
+0:56:9.0 --> 0:56:13.560
+Ricardo Mendes Soares
+A gente tá já fazer tudo, inclusive porque as coisas importantes.
+0:56:17.150 --> 0:56:18.320
+Ricardo Mendes Soares
+Que tudo bem.
+0:56:18.330 --> 0:56:19.580
+Ricardo Mendes Soares
+Que a gente fala de Inovação.
+0:56:19.590 --> 0:56:22.260
+Ricardo Mendes Soares
+Hoje tem uma documentação mínima que a gente tem que fazer.
+0:56:22.270 --> 0:56:27.320
+Ricardo Mendes Soares
+O que serve depois de comprovação de frente é isso aí, passa dos meninos também presente, depreciando, tá?
+0:56:28.860 --> 0:56:32.50
+Ricardo Mendes Soares
+Você está feliz da vida aqui com portal de compras, né?
+0:56:32.60 --> 0:56:33.290
+Ricardo Mendes Soares
+Pra mostrar pra vocês.
+0:56:33.300 --> 0:56:34.920
+Ricardo Mendes Soares
+Já os momentos.
+0:56:36.930 --> 0:56:38.660
+Ricardo Mendes Soares
+Visão de o que é que a gente tem que fazer?
+0:56:38.670 --> 0:56:40.140
+Ricardo Mendes Soares
+Com milhar com esses produtos, né?
+0:56:40.150 --> 0:56:43.610
+Ricardo Mendes Soares
+Esse não, e trazer o peito da vez?
+0:56:43.620 --> 0:56:44.290
+Ricardo Mendes Soares
+O valor também.
+0:56:44.300 --> 0:56:44.790
+Ricardo Mendes Soares
+O Pedro é o.
+0:56:47.190 --> 0:56:48.290
+Ricardo Mendes Soares
+Tá bom, certo?
+0:56:49.60 --> 0:56:50.270
+Ricardo Mendes Soares
+O Ticiano também.
+0:56:51.380 --> 0:56:55.700
+Ricardo Mendes Soares
+O acesso para DA leve é, mas como é que ele vai fazer uma festa?
+0:57:5.770 --> 0:57:11.880
+Ricardo Mendes Soares
+Então, com Israel, tratar aqui para sexta a gente inclui um kit pra mim que é do Lula, não gosta?
+0:57:11.890 --> 0:57:16.280
+Ricardo Mendes Soares
+O ritmo do alho tu acerta isso aí por marelo mais fácil.
+0:57:17.820 --> 0:57:18.960
+Ricardo Mendes Soares
+Então pronto, é isso, né?
+0:57:19.200 --> 0:57:19.540
+Ricardo Mendes Soares
+Hã?
+0:57:19.550 --> 0:57:26.160
+Ricardo Mendes Soares
+E aí é uma nova ferramenta aqui eles vão precisar para ajudar nesse primeiro momento aqui todo ele bonal é acesso.
+0:57:26.170 --> 0:57:26.540
+Ricardo Mendes Soares
+Alguém.
+0:57:26.550 --> 0:57:30.150
+Ricardo Mendes Soares
+Tchau, nexus, que é onde eles vão seguir, o que está desenvolvido para publicar?
+0:57:31.860 --> 0:57:32.230
+Ricardo Mendes Soares
+Né?
+0:57:32.240 --> 0:57:38.930
+Ricardo Mendes Soares
+E num segundo momento, se precisar acessar outras coisas, a gente vai caindo no nosso, no nosso Fábio de aplicação.
+0:57:38.940 --> 0:57:41.210
+Ricardo Mendes Soares
+Eles acessam sem precisaria, pendrive.
+0:57:41.220 --> 0:57:47.920
+Ricardo Mendes Soares
+Não quer contar uma coisa na sexta, quando eu acho que eles entenderam qual é a estrutura da gente, como é que a coisa funciona?
+0:57:47.930 --> 0:57:53.490
+Ricardo Mendes Soares
+Talvez gere algumas demandas, sim, mas aí a gente já trata na própria sexta, eu queria.
+0:57:56.80 --> 0:58:1.360
+Ricardo Mendes Soares
+Entrada desse projeto para o é eu vou te mandar a resolução Zinho aqui a gente fez.
+0:58:1.370 --> 0:58:15.360
+Ricardo Mendes Soares
+Mas então, Lima simplificada já essa pra ver de novo e dá certo para acabei dizer aqui logo as coisas que eu queria incluir lá que talvez fosse interessante usar de modelo aqui.
+0:58:18.930 --> 0:58:19.140
+Ricardo Mendes Soares
+Usuário.
+0:58:25.430 --> 0:58:26.210
+Ricardo Mendes Soares
+Pera aí, rapaz.
+0:58:26.220 --> 0:58:27.540
+Ricardo Mendes Soares
+Então é um país errada.
+0:58:27.550 --> 0:58:30.50
+Ricardo Mendes Soares
+Às 11 e 10 errada, encerrou.
+0:58:30.80 --> 0:58:32.190
+Ricardo Mendes Soares
+O cerrado é doutor jogar, fazer o serramento.
