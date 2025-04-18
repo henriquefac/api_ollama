@@ -18,6 +18,14 @@ app.secret_key = "shhh, segredo fi"
 def jfy(dado):
     return {"dado": dado}
 
+@app.route("/", method=["GET"])
+def upload():
+    message = {
+        "Message":"Olá! Eu funciono!",
+        "status":"sucesso"
+    }
+    return jsonify(message), 200
+
 # endpoint para receber dados de upload
 @app.route("/upload", methods=['POST'])
 def upload():
